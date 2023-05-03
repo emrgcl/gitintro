@@ -6,3 +6,4 @@ We will learn
 
 - saving / committing files
 - push files to remote repository 
+- publisht the branch as well.
